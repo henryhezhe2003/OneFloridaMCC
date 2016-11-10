@@ -146,6 +146,20 @@ Script Name: MCC_queries_HCUP_100616.sql
 
 29) Analying the number of hispanic older adults with each number of conditions
 
+----
+Script Name: 3MCC_OneFlorida_2013_Data_Analysis_102816.bcp.bat.txt
+
+This script contains queries for analysing older adults (inpaitent or emergency-to-inpatient) with 27 CMS chronic conditions in 2013
+
+---
+Script Name: 3MCC_OneFlorida_2014_Data_Analysis_102816.bcp.bat.txt
+
+This script contains queries for analysing older adults (inpaitent or emergency-to-inpatient) with 27 CMS chronic conditions in 2014
+
+----
+Script Name: 3MCC_OneFlorida_2015_Data_Analysis_102816.bcp.bat.txt
+
+This script contains queries for analysing older adults (inpaitent or emergency-to-inpatient) with 27 CMS chronic conditions in 2015
 
 
 
