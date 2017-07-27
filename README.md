@@ -161,5 +161,35 @@ Script Name: 3MCC_OneFlorida_2015_Data_Analysis_102816.bcp.bat.txt
 
 This script contains queries for analysing older adults (inpaitent or emergency-to-inpatient) with 27 CMS chronic conditions in 2015
 
+----
+Script Name: MCC_COUNT_OneFlorida_2012.bcp.bat.txt
+
+This script contains queries for analysing the MCC count for older adults in OneFlorida 2012 (IP/EI->IP)
+
+----
+Script Name: MCC_COUNT_OneFlorida_2014.bcp.bat.txt
+
+This script contains queries for analysing the MCC count for older adults in OneFlorida 2014 (IP/EI->IP)
+
+----
+Script Name: MCC_COUNT_OneFlorida_2015.bcp.bat.txt
+
+This script contains queries for analysing the MCC count for older adults in OneFlorida 2015 (IP/EI->IP)
+
+----
+Script Name: MCC_COUNT_OneFlorida_2016.bcp.bat.txt
+
+This script contains queries for analysing the MCC count for older adults in OneFlorida 2016 (IP/EI->IP)
+
+----
+Script Name: HCUP_table_update.sql
+
+This script is to upate the fields AGE_GROUP, ETHNICITY in HCUP 2003 - 2012 tables
+
+----
+Script Name: MCC_COUNT_HCUP_2003.bcp.bat.txt -- MCC_COUNT_HCUP_2012.bcp.bat.txt
+
+This script is to generate MCC count for HCUP 2003-2012 data, stratified by age group, gender, and ethnicity
+
 
 
